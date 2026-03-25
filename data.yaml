@@ -1,0 +1,15 @@
+# YOLO Dataset Configuration
+
+# Path to training data
+train: /path/to/train/images
+
+# Path to validation data
+val: /path/to/val/images
+
+# Classes
+names:
+  - class_a
+  - class_b
+
+# Number of classes
+nc: 2
